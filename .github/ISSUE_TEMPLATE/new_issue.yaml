@@ -1,0 +1,7 @@
+name: New Issue
+description: Create a new issue
+body:
+- type: textarea
+  id: issue_body
+  attributes:
+    label: Leave a comment
